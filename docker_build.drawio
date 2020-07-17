@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T07:16:00.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.64" version="13.4.4" etag="5hqTrbasqvNoRo6IBiWs" type="github"><diagram id="jo3HrdEAMuOPyR-helGk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-17T07:25:53.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.64" etag="mWgOHlWKZPRwbmB8L18k" version="13.4.4" type="github">
+  <diagram id="jo3HrdEAMuOPyR-helGk" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8-XLzQYcNY0egARbly4J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8-XLzQYcNY0egARbly4J-1" target="8-XLzQYcNY0egARbly4J-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8-XLzQYcNY0egARbly4J-1" value="โหลด python3.7-slim" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="120" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-XLzQYcNY0egARbly4J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8-XLzQYcNY0egARbly4J-2" target="8-XLzQYcNY0egARbly4J-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8-XLzQYcNY0egARbly4J-2" value="กำหนด port ของ container&lt;br&gt;ที่จะให้ภายนอกเรียกใช้งาน" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="240" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-XLzQYcNY0egARbly4J-4" value="กำหนด path ที่ใช้ในการเก็บโฟล์เดอร์&lt;br&gt;หรือไฟล์ที่ถูกสร้างขึ้นโดย &lt;br&gt;docker container" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="360" width="225" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
