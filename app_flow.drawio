@@ -1,88 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2020-07-29T07:25:04.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 Edg/80.0.361.66" etag="L4_PeUWs660mf-l3VN6p" version="13.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-29T09:31:06.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 Edg/84.0.522.44" etag="zAk07x36IsB8ycaZKggr" version="13.4.9" type="github">
   <diagram id="esJzJPp7fxd8QKTlcZkE" name="Page-1">
-    <mxGraphModel dx="1426" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-1" target="aJgIxPmhOnbDEEiDRD4a-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-1" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 16px&quot;&gt;เริ่มต้น&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="295" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-1" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 20px&quot;&gt;เริ่มต้น&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="382" y="149" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-2" target="aJgIxPmhOnbDEEiDRD4a-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-2" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 16px&quot;&gt;แอปพลิเคชันกดปุ่มบันทึกเสียง&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="295" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-2" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 20px&quot;&gt;กดปุ่มบันทึกเสียง&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="382" y="249" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-4" target="aJgIxPmhOnbDEEiDRD4a-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="280" />
-              <mxPoint x="220" y="60" />
+              <mxPoint x="307" y="399" />
+              <mxPoint x="307" y="179" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-4" target="aJgIxPmhOnbDEEiDRD4a-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-4" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 16px&quot;&gt;ระยะเวลา = 5 วินาที?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277" y="230" width="157" height="100" as="geometry" />
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-4" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 20px&quot;&gt;ระยะเวลา = 5 วินาที?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="349" width="157" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-9" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="237" y="250" width="40" height="20" as="geometry" />
+          <mxGeometry x="324" y="369" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-10" target="aJgIxPmhOnbDEEiDRD4a-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-10" value="&lt;span style=&quot;font-family: &amp;#34;th sarabun new&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;บันทึกไฟล์ .wav ใน temp และอัปโหลดไฟล์ไปยังฐานข้อมูล&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="288" y="360" width="135" height="80" as="geometry" />
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-10" value="&lt;span style=&quot;font-family: &amp;#34;th sarabun new&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;บันทึกไฟล์ .wav ใน temp และอัปโหลดไฟล์ไปยังฐานข้อมูล&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="375" y="479" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-13" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="330" width="40" height="20" as="geometry" />
+          <mxGeometry x="447" y="449" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="460" as="targetPoint" />
+            <mxPoint x="437" y="579" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="530" />
-              <mxPoint x="220" y="460" />
+              <mxPoint x="307" y="649" />
+              <mxPoint x="307" y="579" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vyhp9DC8OZX6Is8qd3nA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJgIxPmhOnbDEEiDRD4a-14" target="aJgIxPmhOnbDEEiDRD4a-23">
+        <mxCell id="Vyhp9DC8OZX6Is8qd3nA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-14" target="aJgIxPmhOnbDEEiDRD4a-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-14" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 16px&quot;&gt;ฐานข้อมูลได้&lt;br&gt;รับไฟล์เสียง?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277" y="480" width="157" height="100" as="geometry" />
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-14" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 20px&quot;&gt;ฐานข้อมูลได้&lt;br&gt;รับไฟล์เสียง?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="599" width="157" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-18" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="237" y="500" width="40" height="20" as="geometry" />
+          <mxGeometry x="324" y="619" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aJgIxPmhOnbDEEiDRD4a-22" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="580" width="40" height="20" as="geometry" />
+          <mxGeometry x="447" y="699" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-23" target="aJgIxPmhOnbDEEiDRD4a-28" edge="1">
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="442" y="859" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-23" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 20px&quot;&gt;ส่งไฟล์เสียงไป&lt;br&gt;ประมวลผลที่ APIs&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="367" y="759" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vyhp9DC8OZX6Is8qd3nA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-30" target="aJgIxPmhOnbDEEiDRD4a-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-23" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 16px&quot;&gt;ส่งไฟล์เสียงไป&lt;br&gt;ประมวลผลที่ APIs&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="640" width="150" height="60" as="geometry" />
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-30" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 20px&quot;&gt;ส่งผลลัพธ์มาแสดงผลที่แอปพลิเคชัน&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="367" y="859" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aJgIxPmhOnbDEEiDRD4a-28" target="aJgIxPmhOnbDEEiDRD4a-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-28" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 16px&quot;&gt;ผลการจำแนกอยู่&lt;br&gt;ในรูปแบบ JSON&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="740" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Vyhp9DC8OZX6Is8qd3nA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJgIxPmhOnbDEEiDRD4a-30" target="aJgIxPmhOnbDEEiDRD4a-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-30" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 15px&quot;&gt;แสดงผลที่แอปพลิเคชัน&lt;br&gt;&amp;nbsp;/ เว็บ APIs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="840" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aJgIxPmhOnbDEEiDRD4a-32" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 16px&quot;&gt;จบการทำงาน&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="295" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="aJgIxPmhOnbDEEiDRD4a-32" value="&lt;font face=&quot;TH Sarabun New&quot; style=&quot;font-size: 20px&quot;&gt;จบการทำงาน&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="382" y="959" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
