@@ -11,7 +11,7 @@ import pandas as pd
 import json
 
 
-model_path = 'mfcc_16_16.tflite'
+model_path = 'models/mfcc_16_16.tflite'
 
 
 def predict(path):
@@ -73,10 +73,10 @@ def prediction(file_name):
 
     signal, fs = librosa.load(file_name, sr=8000, mono=True)
 
-
     # Noise reduction
     noisy_part = signal[:]
-    reduced_noise = nr.reduce_noise(signal, noise_clip=noisy_part, verbose=False)
+    reduced_noise = nr.reduce_noise(
+        signal, noise_clip=noisy_part, verbose=False)
 
     envo, y_mean = envelope(signal, fs, threshold=0.1)
 
@@ -91,28 +91,24 @@ def prediction(file_name):
 
         # y.append(sig)
 
-
     print(sig)
-
 
     plt.figure(1)
     plt.plot(reduced_noise)
     plt.plot(y)
 
-    
     # plt.figure(2)
     # plt.plot(reduced_noise)
-    
+
     # plt.figure(3)
     # plt.plot(signal[envo])
     # plt.show()
 
-
     # noisy_part = signal[0:100]
     # reduced_noise = nr.reduce_noise(signal, noise_clip=noisy_part, verbose=False)
 
-    trimmed, index = librosa.effects.trim(signal, top_db=20, frame_length=512, hop_length=64)
-
+    trimmed, index = librosa.effects.trim(
+        signal, top_db=20, frame_length=512, hop_length=64)
 
     # sameple, sr = check_sample(trimmed, fs)
 
@@ -174,4 +170,4 @@ def prediction(file_name):
 
 if __name__ == '__main__':
 
-    print(prediction('wav_20200705_175208.wav'))
+    print(prediction('samples/wav_20200705_175208.wav'))
