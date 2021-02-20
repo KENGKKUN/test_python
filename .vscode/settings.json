@@ -1,3 +1,4 @@
 {
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/kengkkun/miniconda3/envs/tf24/bin/python"
 }
