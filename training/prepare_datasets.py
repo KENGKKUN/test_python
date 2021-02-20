@@ -10,7 +10,10 @@ import pandas as pd
 from tqdm import tqdm
 
 
+# --------------Path of dataset (train)---------------
 dataset_path = 'C:/Users/waeng/Desktop/audio_classification/data/train/'
+
+
 for name in listdir(dataset_path):
     if isdir(join(dataset_path, name)):
         # print(name)
