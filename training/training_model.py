@@ -13,7 +13,7 @@ from tensorflow.keras import models
 
 # defind variable
 feature_sets_filename = 'all_targets_mfcc_sets.npz'
-model_filename = 'mfcc_16_16.h5'
+model_filename = 'models/mfcc_16_16.h5'
 checkpoint_path = 'checkpoint/weights.best.hdf5'
 
 # Load feature sets
@@ -144,4 +144,3 @@ model = models.load_model(keras_model_filename)
 converter = lite.TFLiteConverter.from_keras_model(model)
 tflite_model = converter.convert()
 open(tflite_filename, 'wb').write(tflite_model)
-
